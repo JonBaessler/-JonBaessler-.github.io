@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+<title>Index</title>
+    </head> 
+        <body>
+            <h1>Big Title!/Project 5</h1>
+ <table>
+            <thead>
+                <tr>
+                    <th  class="cheader" id="pagename">Page Name</th>
+                    <th  class="cheader">URL</th>
+                    <th  class="cheader">Validation</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th class="rheader">Template</th>
+                    <td><a href="template.html">https://jonbaessler.github.io/template.html</a></td>
+                    <td><a href="https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fbacs200steven-sanchez.github.io%2Ftemplate.html">VALIDATE</a></td>
+                </tr>
+                <tr>
+                    <th class="rheader">Amuse</th>
+                    <td><a href="amuse.html">https://jonbaessler.github.io/amuse.html</a></td>
+                    <td><a href="https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fbacs200steven-sanchez.github.io%2Famuse.html">VALIDATE</a></td>
+                </tr>
+ <tr>
+                    <th class="rheader">educate</th>
+                    <td><a href="educate.html">https://jonbaessler.github.io/educate.html</a></td>
+                    <td><a href="https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fbacs200steven-sanchez.github.io%2Famuse.html">VALIDATE</a></td>
+                </tr>
+ <tr>
+                    <th class="rheader">index</th>
+                    <td><a href="index.html">https://jonbaessler.github.io/index.html</a></td>
+                    <td><a href="https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fbacs200steven-sanchez.github.io%2Famuse.html">VALIDATE</a></td>
+                </tr>
+ <tr>
+                    <th class="rheader">inspire</th>
+                    <td><a href="inspire.html">https://jonbaessler.github.io/inspire.html</a></td>
+                    <td><a href="https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fbacs200steven-sanchez.github.io%2Famuse.html">VALIDATE</a></td>
+                </tr>
+<tr>
+                    <th class="rheader">profile</th>
+                    <td><a href="profile.html">https://jonbaessler.github.io/profile.html</a></td>
+                    <td><a href="https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fbacs200steven-sanchez.github.io%2Famuse.html">VALIDATE</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
