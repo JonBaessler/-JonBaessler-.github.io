@@ -1,29 +1,45 @@
-body {
-    background-color: #f0f0f0; 
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+:root
+{
+    --black: RGB(0,0,0);
+    --blue: RGB(0,76,153);
+    --darkgray: RGB(51,0,51);
+    color: var(--blue);
+    background-color:var(--darkgray)
 }
 
-
-img {
-    width: 100%; 
-    border-radius: 10px; 
-    opacity: 0.8; 
-    filter: grayscale(30%); 
+.title
+{
+  color: var(--black);
+  font-size: 48pt;
+  text-decoration: underline;
+  text-align: center;
 }
 
-
-h1 {
-    color: #3498db;
-    font-size: 36px;
-    font-weight: bold;
-    text-decoration: underline;
-}
-
-
-.page {
+ul
+{
     text-align: center;
-    margin: 20px;
-    padding: 20px;
+}
+li
+{
+    display: inline;
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
+img
+{
+    margin: auto;
+    display: block;
+}
+
+section :hover
+{
+    background-color:var(--black);
+}
+
+.footnote
+{
+    font-style: italic;
+    text-align: center;
+    margin-top: 100px;
 }
