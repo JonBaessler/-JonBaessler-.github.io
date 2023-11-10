@@ -1,11 +1,11 @@
-:root {
+:root 
+{
   --black: rgb(0, 0, 0);
   --blue: rgb(0, 76, 153);
   --darkgray: rgb(51, 0, 51);
   color: var(--blue);
   background-color: var(--darkgray);
 }
-/* testing */
 .title {
   color: var(--black);
   font-size: 48pt;
@@ -13,35 +13,42 @@
   text-align: center;
 }
 
-section h1 {
+section h1 
+{
   font-size: 42px;
 }
 
-ul {
+ul 
+{
   text-align: center;
 }
 
-li {
+li 
+{
   display: inline;
   margin-left: 3vw;
   margin-right: 3vw;
 }
 
-img {
+img 
+{
   margin: auto;
   display: block;
 }
 
-section:hover {
+section:hover 
+{
   background-color: var(--black);
 }
 
-.footnote {
+.footnote 
+{
   font-style: italic;
   text-align: center;
   margin-top: 100px;
 }
 
-p {
+p 
+{
   display: inline;
 }
